@@ -10,6 +10,7 @@ public class TestGithubApplication {
 		SpringApplication.run(TestGithubApplication.class, args);
                 
                 System.out.println("Test GitHub.");
+                System.out.println("Another Change.");
 	}
 
 }
